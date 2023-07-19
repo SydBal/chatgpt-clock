@@ -5,5 +5,5 @@ import react from '@vitejs/plugin-react-swc'
 export default defineConfig({
   plugins: [react()],
     // Configure base to your GitHub repo name
-    base: "vite-gh-pages",
+    base: "chatgpt-clock",
 })
